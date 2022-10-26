@@ -1,0 +1,7 @@
+C:\Users\18196\source\repos\Exemple_throw\Exemple_throw\bin\Debug\Exemple_throw.exe.config
+C:\Users\18196\source\repos\Exemple_throw\Exemple_throw\bin\Debug\Exemple_throw.exe
+C:\Users\18196\source\repos\Exemple_throw\Exemple_throw\bin\Debug\Exemple_throw.pdb
+C:\Users\18196\source\repos\Exemple_throw\Exemple_throw\obj\Debug\Exemple_throw.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Exemple_throw\Exemple_throw\obj\Debug\Exemple_throw.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Exemple_throw\Exemple_throw\obj\Debug\Exemple_throw.exe
+C:\Users\18196\source\repos\Exemple_throw\Exemple_throw\obj\Debug\Exemple_throw.pdb
